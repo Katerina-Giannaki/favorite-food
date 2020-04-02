@@ -1,4 +1,4 @@
-# Favorite-food
+# Favorite food
 * pastitsio
 * **souvlaki**
 * mousakas
@@ -6,3 +6,7 @@
 * fried potatoes
 * gemista
 * burger
+# Favorite sweets
+1. *carrot cake*
+2. *baklava*
+3. *chocolate*
