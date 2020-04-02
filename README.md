@@ -1,6 +1,6 @@
 # Favorite-food
 * pastitsio
-* souvlaki
+* **souvlaki**
 * mousakas
 * pizza
 * fried potatoes
