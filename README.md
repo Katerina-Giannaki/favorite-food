@@ -1,4 +1,4 @@
-* favorite-food
+# Favorite-food
 * pastitsio
 * souvlaki
 * mousakas
